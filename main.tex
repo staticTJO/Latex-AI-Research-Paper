@@ -1,0 +1,162 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Simple Sectioned Essay Template
+% LaTeX Template
+%
+% This template has been downloaded from:
+% http://www.latextemplates.com
+%
+% Note:
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[12pt]{article} % Default font size is 12pt, it can be changed here
+\usepackage[T1]{fontenc}
+\usepackage{geometry} % Required to change the page size to A4
+\geometry{letterpaper} % Set the page size to be A4 as opposed to the default US Letter
+
+\usepackage{graphicx} % Required for including pictures
+\usepackage{setspace}
+\usepackage{abstract}
+\usepackage{apacite}
+\usepackage{url}
+
+\usepackage{float} % Allows putting an [H] in \begin{figure} to specify the exact location of the figure
+\usepackage{wrapfig} % Allows in-line images such as the example fish picture
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{fancyvrb}
+\usepackage{underscore}
+
+\linespread{1.2} % Line spacing
+
+%\setlength\parindent{0pt} % Uncomment to remove all indentation from paragraphs
+
+\graphicspath{{./Pictures/}} % Specifies the directory where pictures are stored
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+\newgeometry{top=1in,bottom=1in}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+
+\center % Center everything on the page
+
+\includegraphics{logoblack}\\[1cm] % Include a department/university logo - this will require the graphicx package
+
+%\textsc{\LARGE University of Regina}\\[1.5cm] % Name of your university/college
+\textsc{\Large Software Systems Engineering}\\[0.5cm] % Major heading such as course name
+\textsc{\large ENSE 480}\\[0.5cm] % Minor heading such as course title
+
+\HRule \\[0.4cm]
+{ \huge \bfseries Applied Artificial Intelligence}\\[0.4cm] % Title of your document
+\HRule \\[1.5cm]
+
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+Julien \textsc{Popa-Liesz} % Your name
+\end{flushleft}
+\end{minipage}
+~
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Student ID:} \\
+200285869 %\textsc{Smith} % Supervisor's Name
+\end{flushright}
+\end{minipage}\\[4cm]
+
+{\large \today}\\[3cm] % Date, change the \today to a set date if you want to be precise
+
+
+
+\vfill % Fill the rest of the page with whitespace
+
+\end{titlepage}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+\newgeometry{top=1.25in,bottom=1.25in}
+\addcontentsline{toc}{section}{Contents}
+
+\pagenumbering{roman}
+\tableofcontents % Include a table of contents
+
+\newpage % Begins the essay on a new page instead of on the same page as the table of contents 
+
+%----------------------------------------------------------------------------------------
+%	3-D Facial Landmark Localization 
+%----------------------------------------------------------------------------------------
+\doublespacing
+\pagenumbering{arabic}
+\section{3-D Facial Landmark Localisation} % Major section
+
+This topic explores a method for automatic localization of facial landmarks where an algorithm generates a set of candidate locations from feature detectors and performs a combinatorial search constrained by a flexible shape model. The application for this research are in the field of biometric identification and medicine. In the field of medicine such applications are facial surgery \cite{Sharifi}, lip movement assessment \cite{Popat} or cranial facial dysmorphology. It is stated in the paper that with the increased use of 3-D scanners the possibility to overcome traditional limitations of 2-D scanners have become discovered. However according to Phillips current 3-D scanners suffer from two shortcomings: 1) not all 3-D scanners provide texture and, even when they do it cannot be assured that it is accurately registered to the geometry. 2) they may become more sensitive to view point and lighting conditions, where texture information is not invariant to these factors. \cite{Phillips} In the presence of obstacles obstructing landmarks, for example, scarf or jacket in the way of a chin the use of shape regression with incomplete local features (SRILF) was used for the detection of such facial landmarks. SRILF handles any combination of missing points and allows for nonrigid deformations. SRILF algorithm has three components: 1) selection of candidates through local feature detection; 2) partial set matching to infer missing landmarks by regression; and 3) combinatorial search which integrates the other two components. Local feature detection is described by a set of vertices in M where M is a facial surface described by the V vertices. Then a set of 3-D annotations containing L landmarks are used to train a local descriptor model for each landmark. The goal is to compute a similarity score s(v) based on the local descriptors, that correlates well with the correct position of the targeted landmark. The second step is Partial set matching using statistical shape models. A shape vector is constructed by concatenating the coordinates of L landmarks. The goal is to infer the coordinates of landmarks using principle component analysis over a FRGC (Facial Recognition Grand Challenge) training set. Combinational feature matching and the use of RANSAC is a matching procedure where L sets of candidate points for each landmark have a set of top scoring vertices which were determined during training period and then evaluated. The SRILF algorithm is described in the paper as follows: Start with the mesh M, for all the landmarks compute the descriptor scores, determine the landmark candidates. Next for all combinations of candidates obtain the best candidates within M. Keep iterating the subset until it achieves the desired highest score and then evaluate the geometry. In conclusion, the algorithm generates sets of candidate points from geometric cues extracted by using the APSC descriptors and then performs a combinatorial search using a constrained flexible shape model. In the scenario were a landmark was not accurately detectable the use of partial subsets of landmarks were taken to make a inference on the missing landmark. After Evaluating the facial recognition grand challenge data, errors in the ranges of approximately 3.5 mm was obtained. Such an accuracy is amazing. It is apparent that the trained data sets using artificial intelligent techniques was used but the type of technique was not stated in the paper. However in this example, applied artificial intelligence was definitely applicable in transactions systems of facial recognition.
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+% Differential Evolution with an Evolution Path: A Deep Evolutionary Algorithm
+%----------------------------------------------------------------------------------------
+
+\section{Filtering Reviews by Random Individual Error} % Major section
+This paper tackles the problem of physician ratings websites by determining the quality of information extracted by applying artificial intelligence to detect the random individual error within the reviews. The paper goes on to describe the challenges as (1) the content and sentiment analysis of the review texts and (2) the removal of the random individual error contained in them \cite{Geierhos}. To tackle these problems these researchers assigned polarities to automatically recognise opinion phrases in reviews and then check for any divergence in the rating and text. Application of this research paper aids in the current increase in fraudulent internet reviews. This is a big issue particularly in online retail, and has attracted attention in recent years from businesses and research community \cite{Mukherjee}. In some cases reviews were biased and or genuine and may appear to be deceptive which made detection of such reviews difficult in the paper. The data set used was a set if ready-made corpora physician reviews from sites such as jamede.de and docinsider.de. The paper then describes how they detect the random individual errors in the reviews by "divergent polarities" broken into 5 categories assurance, reliability, responsiveness,tangibility and time. For example some polarities can be deduced in a rate my professor situation, where a student will use words such as bad, good or incompetent too much work etc. These words can be correlated as divergent polarities. However some contradictions may occur when the review may be overall satisfactory and based on past experiences and or trust. Machine learning cannot be applied to this scenario but the approach of the application of A.I in this paper is data processing of language and error calculation from the qualitative part in the written review and the quantitative part of the actual valued result. When performing the calculations the 5 categories are broken into subcategories for each to determine a probability of individual inconsistency in the data sets obtained from the review. Assurance is broken down into trustworthiness, kindness, consideration. Reliability can be broken down into health, education. Responsiveness is sub-categorised into waiting time. Tangibility would have a subcategory of entertainment, and time would be the time taken. In the paper they calculated the divergence of these categories by determining the arithmetic mean for each category based each random individual error per sub category. This is evaluated rate of individual error in reviews depended on the grammar annotated by the person doing the review. Training sets were generated based on this data where they compared true positives as correct and false positive erroneous reviews. They calculated the precision in ratio between true positive and false positive reviews to generate a score to compare with physician reviews. As a result the average precision of each category  was 8 percent for assurance, 3 percent for reliability, 50 percent for responsiveness, 28 percent for tangibility and 14 percent for time. What was interesting was the wait time and trust evaluation results were show to be the lowest which makes sense as the data obtained from the review would be difficult to infer from individual error correlated from grammar based analysis.
+
+%------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	The Regulation of Steam Pressure in a Drum Boiler by Neural Network and System Identification Technique 
+%----------------------------------------------------------------------------------------
+\section{The Regulation of Steam Pressure in a Drum Boiler by Neural Network and System Identification Technique} % Sub-section
+
+%----------------------------------------------------------------------------------------
+%	Summary 4
+%----------------------------------------------------------------------------------------
+\section{Summary 4} % Sub-section
+
+%----------------------------------------------------------------------------------------
+%	Summary 5
+%----------------------------------------------------------------------------------------
+\section{Summary 5} % Sub-section
+
+%----------------------------------------------------------------------------------------
+%	Summary 6
+%----------------------------------------------------------------------------------------
+\section{Summary 6} % Sub-section
+
+%----------------------------------------------------------------------------------------
+%	Summary 7
+%----------------------------------------------------------------------------------------
+\section{Summary 7} % Sub-section
+
+%----------------------------------------------------------------------------------------
+%	Summary 8
+%----------------------------------------------------------------------------------------
+\section{Summary 8} % Sub-section
+
+
+
+\newpage
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+%\addcontentsline{toc}{section}{References}
+%\begin{thebibliography}{99} % Bibliography - this is intentionally simple in this template
+
+\nocite{*}
+\bibliographystyle{apacite}
+\bibliography{refs}
+ 
+%\end{thebibliography}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

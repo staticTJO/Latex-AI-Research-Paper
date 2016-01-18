@@ -1,0 +1,176 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Kandananond%
+}{%
+Kandananond%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Kandananond}
+\APACinsertmetastar {%
+Kandananond}%
+\begin{APACrefauthors}%
+Kandananond, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {The Regulation of Steam Pressure in a Drum Boiler by Neural
+  Network and System Identification Technique.} {The regulation of steam
+  pressure in a drum boiler by neural network and system identification
+  technique.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Michaela%
+, Frederik%
+, Sabine%
+\BCBL {}\ \BBA {} Valentina%
+}{%
+Michaela%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Geierhos}
+\APACinsertmetastar {%
+Geierhos}%
+\begin{APACrefauthors}%
+Michaela, G.%
+, Frederik, S\BPBI B.%
+, Sabine, S.%
+\BCBL {}\ \BBA {} Valentina, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {Filtering Reviews by Random Individual Error.} {Filtering
+  reviews by random individual error.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mukherjee%
+, Venkataraman%
+, Liu%
+\BCBL {}\ \BBA {} Glance%
+}{%
+Mukherjee%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Mukherjee}
+\APACinsertmetastar {%
+Mukherjee}%
+\begin{APACrefauthors}%
+Mukherjee, A.%
+, Venkataraman, V.%
+, Liu, B.%
+\BCBL {}\ \BBA {} Glance, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Fake review detection Classification and analysis of real and
+  pseudo reviews Tech. rep., University of Illinois at Chicago.} {Fake review
+  detection classification and analysis of real and pseudo reviews tech. rep.,
+  university of illinois at chicago.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Phillips%
+}{%
+Phillips%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Phillips}
+\APACinsertmetastar {%
+Phillips}%
+\begin{APACrefauthors}%
+Phillips, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+\APACrefbtitle {Overview of the face recognition grand challenge, in Proc. IEEE
+  Comput. Soc. Conf. Comput. Vis. Pattern Recognit. (CVPR), vol. 1. San Diego,
+  CA, USA, 2005, pp. 947 to 954.} {Overview of the face recognition grand
+  challenge, in proc. ieee comput. soc. conf. comput. vis. pattern recognit.
+  (cvpr), vol. 1. san diego, ca, usa, 2005, pp. 947 to 954.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Popat%
+}{%
+Popat%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Popat}
+\APACinsertmetastar {%
+Popat}%
+\begin{APACrefauthors}%
+Popat, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {A geometric morphometric approach to the analysis of lip shape
+  during speech: Development of a clinical outcome measure PLoS ONE, vol. 8,
+  no. 2, p. e57368.} {A geometric morphometric approach to the analysis of lip
+  shape during speech: Development of a clinical outcome measure plos one, vol.
+  8, no. 2, p. e57368.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sharifi%
+}{%
+Sharifi%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Sharifi}
+\APACinsertmetastar {%
+Sharifi}%
+\begin{APACrefauthors}%
+Sharifi, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {How accurate is model planning for orthognathic surgery? Int J.
+  Oral Max. Surg., vol. 37, no. 12, pp. 1089 to 1093.} {How accurate is model
+  planning for orthognathic surgery? int j. oral max. surg., vol. 37, no. 12,
+  pp. 1089 to 1093.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sukno%
+}{%
+Sukno%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Sukno}
+\APACinsertmetastar {%
+Sukno}%
+\begin{APACrefauthors}%
+Sukno, F\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{September}{}.
+\newblock
+\APACrefbtitle {3-D Facial Landmark Localization With Asymmetry Patterns and
+  Shape Regression from Incomplete Local Features.} {3-d facial landmark
+  localization with asymmetry patterns and shape regression from incomplete
+  local features.}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
