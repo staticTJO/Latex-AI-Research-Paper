@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.9.7)  18 JAN 2016 06:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.9.7)  18 JAN 2016 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -349,37 +349,44 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1
 
-] [1] [2] [3]
-Overfull \hbox (8.57813pt too wide) in paragraph at lines 118--118
+] [1] [2] [3] [4]
+Overfull \hbox (8.57813pt too wide) in paragraph at lines 120--120
 []\T1/cmr/bx/n/17.28 The Reg-u-la-tion of Steam Pres-sure in a Drum Boiler
  []
 
 
-Overfull \hbox (8.2915pt too wide) in paragraph at lines 118--118
+Overfull \hbox (8.2915pt too wide) in paragraph at lines 120--120
 \T1/cmr/bx/n/17.28 by Neu-ral Net-work and Sys-tem Iden-ti-fi-ca-tion Tech-
  []
 
-[4] [5] (./main.bbl) [6] (./main.aux) ) 
+
+LaTeX Warning: Citation `wu' undefined on input line 121.
+
+[5] [6] (./main.bbl) [7] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3494 strings out of 493105
- 47869 string characters out of 6137073
- 220697 words of memory out of 5000000
- 6901 multiletter control sequences out of 15000+600000
+ 3503 strings out of 493105
+ 47966 string characters out of 6137073
+ 220945 words of memory out of 5000000
+ 6910 multiletter control sequences out of 15000+600000
  15171 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,4n,23p,3620b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-sup
-er/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-s
-uper/sfcc1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on main.pdf (8 pages, 200956 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfti1440.pfb>
+Output written on main.pdf (9 pages, 203853 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -173,4 +173,58 @@ Sukno, F\BPBI M.%
   local features.}
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Vasickaninova%
+, Bakosova%
+, Meszaros%
+\BCBL {}\ \BBA {} Klemes%
+}{%
+Vasickaninova%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Vasickaninova}
+\APACinsertmetastar {%
+Vasickaninova}%
+\begin{APACrefauthors}%
+Vasickaninova, A.%
+, Bakosova, M.%
+, Meszaros, A.%
+\BCBL {}\ \BBA {} Klemes, J\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {Neural Network Predictive Control of A Heat Exchange. Appl.
+  Therm. Eng. 31, 2094 to 2100.} {Neural network predictive control of a heat
+  exchange. appl. therm. eng. 31, 2094 to 2100.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wu%
+\ \BBA {} Tsai%
+}{%
+Wu%
+\ \BBA {} Tsai%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Wu}
+\APACinsertmetastar {%
+Wu}%
+\begin{APACrefauthors}%
+Wu, J\BHBI D.%
+\BCBT {}\ \BBA {} Tsai, Y\BHBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {Speaker Identification System Using Empirical Mode
+  Decomposition and An Artificial Neural Network. Expert Syst. Appl. 38, 6112
+  to 6117.} {Speaker identification system using empirical mode decomposition
+  and an artificial neural network. expert syst. appl. 38, 6112 to 6117.}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

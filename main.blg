@@ -13,44 +13,113 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: refs.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 7 entries,
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5062 of file apacite.bst
+Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5062 of file apacite.bst
+Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5062 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5062 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5066 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5066 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5066 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5066 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5068 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5068 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5068 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5068 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5072 of file apacite.bst
+Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5072 of file apacite.bst
+Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5072 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5072 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5075 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5075 of file apacite.bst
+Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5075 of file apacite.bst
+Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5075 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5076 of file apacite.bst
+Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5076 of file apacite.bst
+Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5076 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5076 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5079 of file apacite.bst
+Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5079 of file apacite.bst
+Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5079 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5079 of file apacite.bst
+Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5079 of file apacite.bst
+Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5079 of file apacite.bst
+Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
+while executing---line 5079 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5079 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5079 of file apacite.bst
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+while executing---line 5079 of file apacite.bst
+You've used 9 entries,
             6951 wiz_defined-function locations,
-            1301 strings with 11790 characters,
-and the built_in function-call counts, 15180 in all, are:
-= -- 1844
-> -- 96
-< -- 956
-+ -- 945
-- -- 14
-* -- 1010
-:= -- 3326
-add.period$ -- 28
-call.type$ -- 7
-change.case$ -- 121
+            1310 strings with 12144 characters,
+and the built_in function-call counts, 19864 in all, are:
+= -- 2424
+> -- 133
+< -- 1235
++ -- 1240
+- -- 18
+* -- 1318
+:= -- 4292
+add.period$ -- 36
+call.type$ -- 9
+change.case$ -- 155
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 256
-empty$ -- 468
-format.name$ -- 152
-if$ -- 2643
+cite$ -- 18
+duplicate$ -- 357
+empty$ -- 610
+format.name$ -- 217
+if$ -- 3478
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 155
-num.names$ -- 56
-pop$ -- 491
+newline$ -- 204
+num.names$ -- 72
+pop$ -- 637
 preamble$ -- 1
-purify$ -- 30
+purify$ -- 38
 quote$ -- 0
-skip$ -- 620
+skip$ -- 808
 stack$ -- 0
-substring$ -- 984
-swap$ -- 124
-text.length$ -- 16
+substring$ -- 1299
+swap$ -- 169
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 560
+type$ -- 720
 warning$ -- 0
-while$ -- 55
+while$ -- 76
 width$ -- 0
-write$ -- 186
+write$ -- 252
+(There were 34 error messages)
