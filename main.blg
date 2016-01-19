@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: apacite.bst
@@ -19,19 +19,19 @@ Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J.
 while executing---line 5062 of file apacite.bst
 Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5062 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5062 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5066 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5066 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5066 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5066 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5068 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5068 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5068 of file apacite.bst
@@ -43,9 +43,9 @@ Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J.
 while executing---line 5072 of file apacite.bst
 Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5072 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5072 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5075 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5075 of file apacite.bst
@@ -59,7 +59,7 @@ Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J.
 while executing---line 5076 of file apacite.bst
 Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5076 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5076 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5079 of file apacite.bst
@@ -75,51 +75,51 @@ Name 2 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J.
 while executing---line 5079 of file apacite.bst
 Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5079 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5079 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5079 of file apacite.bst
-Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry Wu
+Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5079 of file apacite.bst
-You've used 9 entries,
+You've used 11 entries,
             6951 wiz_defined-function locations,
-            1310 strings with 12144 characters,
-and the built_in function-call counts, 19864 in all, are:
-= -- 2424
-> -- 133
-< -- 1235
-+ -- 1240
-- -- 18
-* -- 1318
-:= -- 4292
-add.period$ -- 36
-call.type$ -- 9
-change.case$ -- 155
+            1318 strings with 12375 characters,
+and the built_in function-call counts, 23550 in all, are:
+= -- 2885
+> -- 162
+< -- 1429
++ -- 1435
+- -- 22
+* -- 1542
+:= -- 5000
+add.period$ -- 44
+call.type$ -- 11
+change.case$ -- 189
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 357
-empty$ -- 610
-format.name$ -- 217
-if$ -- 3478
+cite$ -- 22
+duplicate$ -- 443
+empty$ -- 744
+format.name$ -- 263
+if$ -- 4175
 int.to.chr$ -- 0
-int.to.str$ -- 27
+int.to.str$ -- 33
 missing$ -- 0
-newline$ -- 204
-num.names$ -- 72
-pop$ -- 637
+newline$ -- 248
+num.names$ -- 88
+pop$ -- 779
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 46
 quote$ -- 0
-skip$ -- 808
+skip$ -- 969
 stack$ -- 0
-substring$ -- 1299
-swap$ -- 169
-text.length$ -- 20
+substring$ -- 1509
+swap$ -- 206
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 720
+type$ -- 880
 warning$ -- 0
-while$ -- 76
+while$ -- 93
 width$ -- 0
-write$ -- 252
+write$ -- 307
 (There were 34 error messages)

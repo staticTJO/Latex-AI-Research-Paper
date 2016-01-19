@@ -128,6 +128,54 @@ Popat, H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Renato%
+, Bruno%
+\BCBL {}\ \BBA {} Rui%
+}{%
+Renato%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Panda}
+\APACinsertmetastar {%
+Panda}%
+\begin{APACrefauthors}%
+Renato, P.%
+, Bruno, R.%
+\BCBL {}\ \BBA {} Rui, P\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {Music Emotion Recognition With Standard And Melodic Audio
+  Features.} {Music emotion recognition with standard and melodic audio
+  features.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Russell%
+}{%
+Russell%
+}{%
+{\protect \APACyear {1980}}%
+}]{%
+Russell}
+\APACinsertmetastar {%
+Russell}%
+\begin{APACrefauthors}%
+Russell, J\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1980}{}{}.
+\newblock
+\APACrefbtitle {A circumplex model of affect. Journal of Personality and Social
+  Psychology.} {A circumplex model of affect. journal of personality and social
+  psychology.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Sharifi%
 }{%
 Sharifi%
@@ -210,9 +258,9 @@ Wu%
 }{%
 {\protect \APACyear {2011}}%
 }]{%
-Wu}
+wu}
 \APACinsertmetastar {%
-Wu}%
+wu}%
 \begin{APACrefauthors}%
 Wu, J\BHBI D.%
 \BCBT {}\ \BBA {} Tsai, Y\BHBI J.%
