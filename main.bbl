@@ -1,6 +1,36 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Chishyan%
+, Wei-Hua%
+, Ching-Tsorng%
+, Choa-Hui%
+\BCBL {}\ \BBA {} Gorden%
+}{%
+Chishyan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Liaw}
+\APACinsertmetastar {%
+Liaw}%
+\begin{APACrefauthors}%
+Chishyan, L.%
+, Wei-Hua, W.%
+, Ching-Tsorng, T.%
+, Choa-Hui, K.%
+\BCBL {}\ \BBA {} Gorden, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Evolving A Team In A First-Person Shooeter Game By Using A
+  Genetic Algorithm.} {Evolving a team in a first-person shooeter game by using
+  a genetic algorithm.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Kandananond%
 }{%
 Kandananond%
@@ -196,6 +226,37 @@ Sharifi, A.%
   Oral Max. Surg., vol. 37, no. 12, pp. 1089 to 1093.} {How accurate is model
   planning for orthognathic surgery? int j. oral max. surg., vol. 37, no. 12,
   pp. 1089 to 1093.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sipper%
+, Azaria%
+, Hauptman%
+\BCBL {}\ \BBA {} Shichel.%
+}{%
+Sipper%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Sipper}
+\APACinsertmetastar {%
+Sipper}%
+\begin{APACrefauthors}%
+Sipper, M.%
+, Azaria, Y.%
+, Hauptman, A.%
+\BCBL {}\ \BBA {} Shichel., Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+\APACrefbtitle {Designing an evolutionary strategizing machine for game playing
+  and beyond. IEEE Transactions on Systems, Man, and Cybernetics Part C:
+  Applications and Reviews 37, 583 to 593.} {Designing an evolutionary
+  strategizing machine for game playing and beyond. ieee transactions on
+  systems, man, and cybernetics part c: Applications and reviews 37, 583 to
+  593.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

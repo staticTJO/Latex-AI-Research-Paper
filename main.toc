@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {3}The Regulation of Steam Pressure in a Drum Boiler by Neural Network and System Identification Technique}{5}
 \contentsline {section}{\numberline {4}Music Emotion Recognition With Standard And Melodic Audio Features}{6}
 \contentsline {section}{\numberline {5}Evolving A Team In A First-Person Shooter Game By Using A Genetic Algorithm}{8}
-\contentsline {section}{\numberline {6}Summary 6}{8}
-\contentsline {section}{\numberline {7}Summary 7}{8}
-\contentsline {section}{\numberline {8}Summary 8}{8}
-\contentsline {section}{References}{9}
+\contentsline {section}{\numberline {6}Summary 6}{9}
+\contentsline {section}{\numberline {7}Summary 7}{9}
+\contentsline {section}{\numberline {8}Summary 8}{9}
+\contentsline {section}{References}{10}
