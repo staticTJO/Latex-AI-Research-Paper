@@ -31,6 +31,35 @@ Chishyan, L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Clemens%
+, A.H.%
+, Chang%
+\BCBL {}\ \BBA {} Myers.%
+}{%
+Clemens%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1997}}%
+}]{%
+Clemens}
+\APACinsertmetastar {%
+Clemens}%
+\begin{APACrefauthors}%
+Clemens%
+, A.H.%
+, Chang, P\BPBI H.%
+\BCBL {}\ \BBA {} Myers., R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+\APACrefbtitle {The development of Biostator. A glucose controlled insulin
+  infusion system (GCIIS). Hormone and Metabolic Research 7: 23 to 33.} {The
+  development of biostator. a glucose controlled insulin infusion system
+  (gciis). hormone and metabolic research 7: 23 to 33.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Cranefield%
 \ \BBA {} Winikoff%
 }{%
@@ -54,6 +83,33 @@ Cranefield, S.%
   paths. Journal of Logic and Computation 21: 1217 to 1256. Advance access.}
   {Verifying social expectations by model checking truncated paths. journal of
   logic and computation 21: 1217 to 1256. advance access.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fu%
+, Tossapon%
+\BCBL {}\ \BBA {} Shen%
+}{%
+Fu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+Fu}
+\APACinsertmetastar {%
+Fu}%
+\begin{APACrefauthors}%
+Fu, X.%
+, Tossapon, B.%
+\BCBL {}\ \BBA {} Shen, Q.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {EVIDENCE DIRECTED GENERATION OF PLAUSIBLE CRIME SCENARIOS WITH
+  IDENTITY RESOLUTION, Applied Artificial Intelligence, 24:4, 253 to 276.}
+  {Evidence directed generation of plausible crime scenarios with identity
+  resolution, applied artificial intelligence, 24:4, 253 to 276.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -104,6 +160,32 @@ Michaela, G.%
 \newblock
 \APACrefbtitle {Filtering Reviews by Random Individual Error.} {Filtering
   reviews by random individual error.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+M.~L.~Fravolini%
+\ \BBA {} Fabietti%
+}{%
+M.~L.~Fravolini%
+\ \BBA {} Fabietti%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Fravolini}
+\APACinsertmetastar {%
+Fravolini}%
+\begin{APACrefauthors}%
+M.~L.~Fravolini, S\BPBI C.%
+\BCBT {}\ \BBA {} Fabietti, P\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {A Learning Strategy for the Autonomous Control of Type 1
+  Diabetes, Applied Artificial Intelligence, 29:6, 531 to 562.} {A learning
+  strategy for the autonomous control of type 1 diabetes, applied artificial
+  intelligence, 29:6, 531 to 562.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
