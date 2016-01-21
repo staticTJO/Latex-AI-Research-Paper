@@ -31,6 +31,32 @@ Chishyan, L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Cranefield%
+\ \BBA {} Winikoff%
+}{%
+Cranefield%
+\ \BBA {} Winikoff%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Cranfield}
+\APACinsertmetastar {%
+Cranfield}%
+\begin{APACrefauthors}%
+Cranefield, S.%
+\BCBT {}\ \BBA {} Winikoff, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {Verifying social expectations by model checking truncated
+  paths. Journal of Logic and Computation 21: 1217 to 1256. Advance access.}
+  {Verifying social expectations by model checking truncated paths. journal of
+  logic and computation 21: 1217 to 1256. advance access.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Kandananond%
 }{%
 Kandananond%
@@ -280,6 +306,29 @@ Sukno, F\BPBI M.%
   Shape Regression from Incomplete Local Features.} {3-d facial landmark
   localization with asymmetry patterns and shape regression from incomplete
   local features.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Surangika~Ranathunga%
+}{%
+Surangika~Ranathunga%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Ranathunga}
+\APACinsertmetastar {%
+Ranathunga}%
+\begin{APACrefauthors}%
+Surangika~Ranathunga, S\BPBI C\BPBI \BPBI M\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {IDENTIFYING EVENTS TAKING PLACE IN SECOND LIFE VIRTUAL
+  ENVIRONMENTS, Applied Artificial Intelligence, 26:1 to 2, 137 to 181.}
+  {Identifying events taking place in second life virtual environments, applied
+  artificial intelligence, 26:1 to 2, 137 to 181.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

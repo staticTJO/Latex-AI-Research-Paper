@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: apacite.bst
@@ -25,6 +25,12 @@ Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J.
 while executing---line 5062 of file apacite.bst
 Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5062 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5062 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5066 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5066 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5066 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
@@ -41,6 +47,12 @@ Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J.
 while executing---line 5068 of file apacite.bst
 Name 1 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J. J." has a comma at the end for entry Vasickaninova
 while executing---line 5068 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5068 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5068 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5072 of file apacite.bst
 Name 2 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a comma at the end for entry Sipper
 while executing---line 5072 of file apacite.bst
 Name 3 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a comma at the end for entry Sipper
@@ -65,6 +77,10 @@ Name 2 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a com
 while executing---line 5075 of file apacite.bst
 Name 3 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a comma at the end for entry Sipper
 while executing---line 5075 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5075 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5076 of file apacite.bst
 Name 2 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a comma at the end for entry Sipper
 while executing---line 5076 of file apacite.bst
 Name 3 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a comma at the end for entry Sipper
@@ -77,6 +93,12 @@ Name 3 in "Vasickaninova, A., and Bakosova, M., and Meszaros, A., and Klemes, J.
 while executing---line 5076 of file apacite.bst
 Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5076 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5079 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5079 of file apacite.bst
+Name 1 in "Cranefield, S., and M. Winikoff" has a comma at the end for entry Cranfield
+while executing---line 5079 of file apacite.bst
 Name 2 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a comma at the end for entry Sipper
 while executing---line 5079 of file apacite.bst
 Name 3 in "Sipper, M. and Y. Azaria, and A. Hauptman, and Y. Shichel." has a comma at the end for entry Sipper
@@ -105,45 +127,45 @@ Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5079 of file apacite.bst
 Name 1 in "Wu, J.-D., and Tsai, Y.-J." has a comma at the end for entry wu
 while executing---line 5079 of file apacite.bst
-You've used 13 entries,
+You've used 15 entries,
             6951 wiz_defined-function locations,
-            1327 strings with 12796 characters,
-and the built_in function-call counts, 28726 in all, are:
-= -- 3487
-> -- 212
-< -- 1758
-+ -- 1768
-- -- 26
-* -- 1901
-:= -- 6086
-add.period$ -- 52
-call.type$ -- 13
-change.case$ -- 223
+            1336 strings with 13180 characters,
+and the built_in function-call counts, 33323 in all, are:
+= -- 4063
+> -- 236
+< -- 2054
++ -- 2074
+- -- 30
+* -- 2208
+:= -- 7097
+add.period$ -- 60
+call.type$ -- 15
+change.case$ -- 257
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 568
-empty$ -- 898
-format.name$ -- 354
-if$ -- 5065
+cite$ -- 30
+duplicate$ -- 650
+empty$ -- 1028
+format.name$ -- 392
+if$ -- 5866
 int.to.chr$ -- 0
-int.to.str$ -- 39
+int.to.str$ -- 45
 missing$ -- 0
-newline$ -- 302
-num.names$ -- 104
-pop$ -- 929
+newline$ -- 345
+num.names$ -- 120
+pop$ -- 1069
 preamble$ -- 1
-purify$ -- 54
+purify$ -- 62
 quote$ -- 0
-skip$ -- 1168
+skip$ -- 1347
 stack$ -- 0
-substring$ -- 1851
-swap$ -- 264
-text.length$ -- 28
+substring$ -- 2174
+swap$ -- 296
+text.length$ -- 32
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1040
+type$ -- 1200
 warning$ -- 0
-while$ -- 123
+while$ -- 135
 width$ -- 0
-write$ -- 385
-(There were 46 error messages)
+write$ -- 436
+(There were 57 error messages)
